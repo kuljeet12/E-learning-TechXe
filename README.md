@@ -6,4 +6,13 @@ First Page:-
 Admin Page:- 
 ![Screenshot 2023-07-28 190853](https://github.com/kuljeet12/E-learning-TechXe/assets/77924934/7c5f401f-4f10-4aa6-8ebb-cd0f9ed23ae2)
 
-We are on a mission to empower computer enthusiasts to follow their passions by educating them with our well-organized planning. Also, we aim to provide them with opportunities to work with us or, if possible, a reference within our network contacts
+✔ We have made this website as responsive website so, students or users can
+easily access our website from any device.
+✔ Quiz Section is an interesting feature for students which provide them with
+lots of questions. They can view their scores easily and solutions of every questions.
+✔ Projects – in this I have added a project section where students from schools and
+colleges can get projects for final year and for Class 12th Board Projects.
+
+It is completely responsive website, to provide smooth experience...😎
+
+
